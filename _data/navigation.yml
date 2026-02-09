@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Contact"
+    url: /contact/
+
+  - title: "CV"
+    url: /assets/pdf/resume.pdf
